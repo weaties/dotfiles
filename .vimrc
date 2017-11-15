@@ -9,7 +9,7 @@ set background=dark
 noremap <leaader>y "*y
 noremap <leader>yy "*Y
 
-" Preserve indentation while pasting text from the OS X Clipboard
+" Preserve indentation while pasting text from the OS X Clipboard - weaties was here 2017-11-15
 noremap <leader>p :set paste<CR>:put *<CR>:set nopaste<CR>
 
 
